@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/KT71KC/Trainings_and_trials/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py", line 64, in <module>
+    go(args)
+  File "/Users/KT71KC/Trainings_and_trials/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/upload_artifact.py", line 36, in go
+    run.log_artifact()
+  File "/Users/KT71KC/env/udacity/lib/python3.11/site-packages/wandb/sdk/wandb_run.py", line 345, in wrapper_fn
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/KT71KC/env/udacity/lib/python3.11/site-packages/wandb/sdk/wandb_run.py", line 335, in wrapper
+    return func(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Run.log_artifact() missing 1 required positional argument: 'artifact_or_path'

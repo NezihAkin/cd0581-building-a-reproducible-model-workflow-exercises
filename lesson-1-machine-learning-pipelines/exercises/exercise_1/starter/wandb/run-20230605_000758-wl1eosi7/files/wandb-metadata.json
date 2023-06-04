@@ -1,0 +1,45 @@
+{
+    "os": "macOS-13.4-x86_64-i386-64bit",
+    "python": "3.11.2",
+    "heartbeatAt": "2023-06-04T22:07:59.165767",
+    "startedAt": "2023-06-04T22:07:58.543444",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--artifact_name",
+        "exercise_1/zen_of_python:v0"
+    ],
+    "state": "running",
+    "program": "/Users/KT71KC/Trainings_and_trials/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_1/starter/use_artifact.py",
+    "git": {
+        "remote": "https://github.com/NezihAkin/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "ismail.akin@ing.com",
+    "root": "/Users/KT71KC/Trainings_and_trials/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "APM3LC02D455PMD6R",
+    "username": "KT71KC",
+    "executable": "/Users/KT71KC/env/udacity/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 465.62699127197266,
+        "used": 8.439628601074219
+    },
+    "memory": {
+        "total": 32.0
+    }
+}
